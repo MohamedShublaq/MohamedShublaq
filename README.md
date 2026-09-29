@@ -1,25 +1,25 @@
 # Hi, I'm Mohamed Shublaq 👋
 
-### Computer Engineer | Backend Developer | Laravel & PHP
+### Computer Engineer • Backend Developer • PHP & Laravel
 
-I'm a **Computer Engineer and Backend Developer** based in Egypt, with a Bachelor's degree in Computer Engineering and professional experience building and maintaining web applications using **PHP and Laravel**.
+I'm a Computer Engineer and Backend Developer based in Egypt, focused on building reliable and maintainable web applications with PHP and Laravel.
 
-I enjoy turning real business requirements into reliable, scalable, and maintainable software. My main focus is backend development, but I'm also continuously expanding my skills across modern web technologies and software architecture.
+I enjoy turning real-world business requirements into practical software, with a particular interest in backend architecture, APIs, authentication, and scalable systems.
 
 ---
 
 ## 🚀 About Me
 
-* 💻 Backend Developer specializing in **PHP & Laravel**
-* 🎓 Bachelor's degree in **Computer Engineering**
-* 🏗️ Experienced in building real-world web applications from the ground up
-* 🔐 Interested in **API design, authentication, authorization, and scalable architectures**
-* 🗄️ Comfortable working with relational databases and complex business logic
-* ⚡ Experienced with **Livewire, Blade, REST APIs, Sanctum, Pusher, and third-party integrations**
-* 💳 Worked with payment integrations and subscription-based systems
-* 🌍 Interested in **remote and international software engineering opportunities**
-* 📚 Currently expanding my knowledge of **React, Next.js, and NestJS**
-* 🎯 Long-term goal: become a strong **backend/software engineer** capable of designing scalable production systems
+- 💻 Backend Developer specializing in **PHP & Laravel**
+- 🎓 Bachelor's degree in **Computer Engineering**
+- 🏗️ Experienced in building and maintaining **real-world production applications**
+- 🔐 Interested in **API design, authentication, authorization, and scalable architectures**
+- 🗄️ Experienced with relational databases and complex business logic
+- ⚡ Worked with **Laravel, Livewire, Blade, REST APIs, Sanctum, Pusher, and third-party integrations**
+- 💳 Experience with **payment integrations and subscription-based systems**
+- 🌍 Interested in **remote and international software engineering opportunities**
+- 📚 Currently learning **React, Next.js, Node.js, and NestJS**
+- 🎯 Focused on becoming a stronger **backend/software engineer** and building scalable production systems
 
 ---
 
@@ -28,127 +28,129 @@ I enjoy turning real business requirements into reliable, scalable, and maintain
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs" />
+  <img src="https://skillicons.dev/icons?i=php,laravel" />
 </p>
 
-* PHP
-* Laravel
-* REST APIs
-* Laravel Sanctum
-* Livewire
-* Authentication & Authorization
-* Service-oriented architecture
-* Third-party API integrations
+**PHP • Laravel • REST APIs • Sanctum • Livewire**
+
+- Authentication & Authorization
+- Service-oriented architecture
+- Third-party API integrations
+- Real-time communication
+- Business logic & workflow development
+
+---
 
 ### Frontend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js,react,nextjs" />
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,js" />
 </p>
 
-* HTML
-* CSS
-* JavaScript
-* Bootstrap
-* Blade
-* Livewire
-* React
-* Next.js
+**HTML • CSS • Bootstrap • JavaScript • Blade**
 
-### Databases & Infrastructure
+- Responsive interfaces
+- Server-side rendering with Blade
+- Interactive interfaces with Livewire
+- Dashboard development
+
+---
+
+### Database & Infrastructure
 
 <p>
   <img src="https://skillicons.dev/icons?i=mysql,postgres,redis,git,github,docker,linux" />
 </p>
 
-* MySQL
-* PostgreSQL
-* Redis
-* Git & GitHub
-* Linux
-* Docker
-* cPanel
-* Web deployment & server management
+**MySQL • PostgreSQL • Redis • Git • GitHub • Docker • Linux**
+
+- Database design
+- Query optimization
+- Caching
+- Background jobs & queues
+- Server deployment
+- cPanel & production environments
+
+---
 
 ### Tools & Services
 
-* Pusher
-* PayPal integrations
-* QR Code systems
-* PDF generation
-* Real-time notifications
-* Cloud storage
-* RESTful APIs
+- Pusher
+- PayPal
+- QR Code systems
+- PDF generation
+- Real-time notifications
+- Cloud storage
+- RESTful APIs
+- Third-party services & integrations
 
 ---
 
 ## 💼 What I Build
 
-I have experience working on applications such as:
+I focus on building software that solves real business problems.
 
 ### 🍽️ Digital Menu & Restaurant Platform
 
-A production web platform for restaurants and cafés that includes:
+A production platform for restaurants and cafés with features including:
 
-* Digital menus
-* Multi-language menus
-* QR code generation
-* Branch management
-* Menu management
-* Online ordering
-* Offers & memberships
-* Customer reviews
-* Wishlist functionality
-* Real-time notifications
-* Subscription packages
-* Payment integrations
-* Client and admin dashboards
+- Digital menus
+- Multi-language support
+- QR code generation
+- Branch management
+- Menu management
+- Online ordering
+- Offers & memberships
+- Customer reviews
+- Wishlist functionality
+- Real-time notifications
+- Subscription packages
+- Payment integrations
+- Client & admin dashboards
 
-The project involves multiple user roles, branch-level permissions, real-time communication, and business-specific workflows.
+The system includes multiple user roles, branch-level permissions, real-time communication, and business-specific workflows.
 
 ---
 
 ### 🏥 Clinic Management System
 
-A clinic platform designed for doctors and medical clinics, including:
+A customized platform for doctors and medical clinics, including:
 
-* Doctor websites
-* Online appointment booking
-* Service management
-* Working hours
-* Schedule management
-* Appointment dashboards
-* Gallery management
-* WhatsApp confirmation workflows
-* Real-time notifications
+- Doctor websites
+- Online appointment booking
+- Service management
+- Working hours
+- Schedule management
+- Appointment dashboards
+- Gallery management
+- WhatsApp confirmation workflows
+- Real-time notifications
+- Customizable clinic requirements
 
-The system is designed to be customized for individual clinics and their specific requirements.
+The system is designed to provide doctors with both a professional website and an internal management dashboard.
 
 ---
 
-## 📚 Currently Learning
+## 🌱 Currently Learning
 
-I'm continuously working on improving my software engineering skills.
+I'm continuously expanding my skills beyond my current Laravel stack.
 
-### Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs" />
+</p>
 
-* React
-* Next.js
-* Modern React patterns
-* Component architecture
+**React • Next.js • Node.js • NestJS**
 
-### Backend
+Currently focusing on:
 
-* NestJS
-* Node.js
-
-### Architecture
-
-* Scalable backend architecture
-* Clean code
-* Design patterns
-* API architecture
-* System design
+- Modern React patterns
+- Component architecture
+- Next.js application development
+- Node.js backend development
+- NestJS architecture
+- REST API development
+- Scalable backend architecture
+- System design
 
 ---
 
@@ -158,40 +160,58 @@ I'm continuously working on improving my software engineering skills.
 
 I care about:
 
-* Writing maintainable code
-* Keeping business logic organized
-* Building reusable components
-* Designing clear APIs
-* Proper authentication and authorization
-* Performance and scalability
-* Understanding the problem before writing the solution
+- Writing clean and maintainable code
+- Keeping business logic organized
+- Building reusable components
+- Designing clear and consistent APIs
+- Proper authentication and authorization
+- Performance and scalability
+- Understanding the problem before writing the solution
+- Building software that can evolve with the business
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Activity
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=MohamedShublaq&show_icons=true&theme=transparent" />
-</p>
+<div align="center">
 
-<p>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedShublaq&theme=transparent" />
-</p>
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=MohamedShublaq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShublaq&layout=compact&hide_border=true&langs_count=8&theme=transparent" 
+    height="170"
+  />
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <img 
+    src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedShublaq&hide_border=true&area=true&theme=github-compact" 
+    width="95%"
+  />
+
+</div>
 
 ---
 
 ## 🤝 Let's Connect
 
-I'm always interested in connecting with developers, companies, and people working on interesting software projects.
+I'm interested in connecting with developers, companies, and teams working on interesting software projects.
 
-* 💼 Open to **remote software engineering opportunities**
-* 🌍 Interested in working with **international teams**
-* 🚀 Interested in backend engineering, SaaS, APIs, and scalable systems
+- 💼 Open to **remote software engineering opportunities**
+- 🌍 Interested in working with **international teams**
+- 🚀 Interested in **backend engineering, SaaS, APIs, and scalable systems**
 
 ---
 
-### ⚡ A little more about me
+### ⚡ Always Learning. Always Building.
 
-I started my journey with Computer Engineering and gradually moved toward building real-world software systems. Today, I'm focused on becoming a stronger backend engineer while expanding into modern full-stack technologies and distributed systems.
+I'm continuously improving my engineering skills by building real-world applications, learning new technologies, and exploring better ways to design and scale software.
 
-**Always learning. Always building. 🚀**
+**Thanks for visiting my profile! 🚀**
