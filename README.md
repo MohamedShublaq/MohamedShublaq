@@ -175,17 +175,34 @@ I care about:
 
 <div align="center">
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=MohamedShublaq&show_icons=true&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&theme=transparent" 
-    height="170"
-  />
+### Building, learning, and improving every day.
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedShublaq&layout=compact&hide_border=true&langs_count=8&theme=transparent" 
-    height="170"
-  />
+<br>
+
+<a href="https://github.com/MohamedShublaq">
+  <img src="https://img.shields.io/badge/GitHub-Mohamed%20Shublaq-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/MohamedShublaq?tab=repositories">
+  <img src="https://img.shields.io/badge/Repositories-View%20Projects-24292f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<br><br>
+
+<a href="https://github.com/MohamedShublaq?tab=activity">
+  <img src="https://img.shields.io/badge/Activity-View%20Contributions-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://github.com/MohamedShublaq?tab=stars">
+  <img src="https://img.shields.io/badge/Stars-Explore%20Projects-f5c518?style=for-the-badge&logo=github&logoColor=181717" />
+</a>
 
 </div>
+
+<br>
+
+> Most of my work focuses on backend development, real-world applications,
+> APIs, business logic, and continuously improving my engineering skills.
 
 <br>
 
