@@ -171,52 +171,6 @@ I care about:
 
 ---
 
-## 📊 GitHub Activity
-
-<div align="center">
-
-### Building, learning, and improving every day.
-
-<br>
-
-<a href="https://github.com/MohamedShublaq">
-  <img src="https://img.shields.io/badge/GitHub-Mohamed%20Shublaq-181717?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/MohamedShublaq?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-View%20Projects-24292f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<br><br>
-
-<a href="https://github.com/MohamedShublaq?tab=activity">
-  <img src="https://img.shields.io/badge/Activity-View%20Contributions-2ea44f?style=for-the-badge&logo=github&logoColor=white" />
-</a>
-
-<a href="https://github.com/MohamedShublaq?tab=stars">
-  <img src="https://img.shields.io/badge/Stars-Explore%20Projects-f5c518?style=for-the-badge&logo=github&logoColor=181717" />
-</a>
-
-</div>
-
-<br>
-
-> Most of my work focuses on backend development, real-world applications,
-> APIs, business logic, and continuously improving my engineering skills.
-
-<br>
-
-<div align="center">
-
-  <img 
-    src="https://github-readme-activity-graph.vercel.app/graph?username=MohamedShublaq&hide_border=true&area=true&theme=github-compact" 
-    width="95%"
-  />
-
-</div>
-
----
-
 ## 🤝 Let's Connect
 
 I'm interested in connecting with developers, companies, and teams working on interesting software projects.
