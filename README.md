@@ -190,12 +190,6 @@ I'm always interested in connecting with developers, companies, and people worki
 * 🌍 Interested in working with **international teams**
 * 🚀 Interested in backend engineering, SaaS, APIs, and scalable systems
 
-<p>
-  <a href="https://github.com/MohamedShublaq">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-  </a>
-</p>
-
 ---
 
 ### ⚡ A little more about me
