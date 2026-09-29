@@ -18,7 +18,7 @@ I enjoy turning real business requirements into reliable, scalable, and maintain
 * ⚡ Experienced with **Livewire, Blade, REST APIs, Sanctum, Pusher, and third-party integrations**
 * 💳 Worked with payment integrations and subscription-based systems
 * 🌍 Interested in **remote and international software engineering opportunities**
-* 📚 Currently expanding my knowledge of **React, Next.js, NestJS, Go, and microservices**
+* 📚 Currently expanding my knowledge of **React, Next.js, and NestJS**
 * 🎯 Long-term goal: become a strong **backend/software engineer** capable of designing scalable production systems
 
 ---
@@ -28,7 +28,7 @@ I enjoy turning real business requirements into reliable, scalable, and maintain
 ### Backend
 
 <p>
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs,go" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,nestjs" />
 </p>
 
 * PHP
@@ -143,18 +143,12 @@ I'm continuously working on improving my software engineering skills.
 
 * NestJS
 * Node.js
-* Go
-* Microservices
-* Distributed systems
 
 ### Architecture
 
 * Scalable backend architecture
 * Clean code
 * Design patterns
-* Caching
-* Queues & background jobs
-* Load balancing
 * API architecture
 * System design
 
