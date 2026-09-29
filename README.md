@@ -78,7 +78,6 @@ I enjoy turning real-world business requirements into practical software, with a
 - Pusher
 - PayPal
 - QR Code systems
-- PDF generation
 - Real-time notifications
 - Cloud storage
 - RESTful APIs
