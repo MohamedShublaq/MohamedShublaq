@@ -121,8 +121,6 @@ A clinic platform designed for doctors and medical clinics, including:
 * Gallery management
 * WhatsApp confirmation workflows
 * Real-time notifications
-* Custom domains
-* Arabic & Hebrew support
 
 The system is designed to be customized for individual clinics and their specific requirements.
 
